@@ -1,1 +1,1 @@
-https://github.com/jupelaz/task-cli
+https://github.com/jupelaz/task-cli/
