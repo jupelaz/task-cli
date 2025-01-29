@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ff605a14-2f4a-40e2-b409-2e9e04fad5db" name="Changes" comment="First version" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="feat" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;jupelaz&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/jupelaz/task-cli&quot;,
+    &quot;accountId&quot;: &quot;6467fdf4-b265-406f-96f0-24ee049552cd&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$MAVEN_REPOSITORY$/info/picocli/picocli/4.7.0/picocli-4.7.0.jar!/picocli/CommandLine.class" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2rhfbVw2iO2ZfV62s8Gd75GTy3D" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.HelloWorldCommand.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.SpringBootConsoleApplication.executor": "Run",
+    "Application.TasksCli.executor": "Run",
+    "JUnit.FileUtilsImplTest.executor": "Run",
+    "JUnit.FileUtilsImplTest.testCheckIfFileExists_FileAlreadyExists.executor": "Run",
+    "JUnit.FileUtilsImplTest.testCheckIfFileExists_FileCreated.executor": "Run",
+    "JUnit.FileUtilsImplTest.testReadFile_FileNotFound.executor": "Run",
+    "JUnit.FileUtilsImplTest.testReadFile_Success.executor": "Run",
+    "JUnit.FileUtilsImplTest.testWriteListToFile_EmptyList.executor": "Run",
+    "JUnit.FileUtilsImplTest.testWriteListToFile_IOException.executor": "Debug",
+    "JUnit.FileUtilsImplTest.testWriteListToFile_Success.executor": "Run",
+    "JUnit.TaskAddTest.executor": "Run",
+    "JUnit.TaskAddTest.testAddTaskWithDefaultDescription.executor": "Run",
+    "JUnit.TaskAddTest.testAddTaskWithDescription.executor": "Run",
+    "JUnit.TaskDeleteTest.executor": "Run",
+    "JUnit.TaskListDoneTest.testRun_ServiceThrowsException.executor": "Run",
+    "JUnit.TaskRepositoryImplTest.executor": "Run",
+    "JUnit.TaskRepositoryImplTest.testDeleteTaskInList.executor": "Run",
+    "JUnit.TaskRepositoryImplTest.testMarkDone.executor": "Run",
+    "JUnit.TaskRepositoryImplTest.testMarkInProgress.executor": "Run",
+    "JUnit.TaskRepositoryImplTest.testPrintDoneList.executor": "Run",
+    "JUnit.TaskRepositoryImplTest.testPrintInProgressList.executor": "Run",
+    "JUnit.TaskRepositoryImplTest.testUpdateTaskInList.executor": "Debug",
+    "JUnit.TaskServiceImplTest.testAddTask_Success.executor": "Run",
+    "JUnit.TaskServiceImplTest.testPrintAllTasks_EmptyList.executor": "Run",
+    "JUnit.TaskTest.executor": "Run",
+    "JUnit.TaskTest.testTaskWithInvalidId.executor": "Run",
+    "JUnit.TaskTest.testTaskWithInvalidStatus.executor": "Run",
+    "JUnit.TaskTest.testTaskWithNullValues.executor": "Run",
+    "JUnit.TaskUpdateTest.run.executor": "Run",
+    "JUnit.TasksCliTest.executor": "Run",
+    "JUnit.java in cliExample.executor": "Run",
+    "Maven.cliExample [clean].executor": "Run",
+    "Maven.cliExample [compile].executor": "Run",
+    "Maven.cliExample [deploy].executor": "Run",
+    "Maven.cliExample [install].executor": "Run",
+    "Maven.cliExample [package].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/projects/cliExample",
+    "onboarding.tips.debug.path": "D:/projects/cliExample/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\projects\cliExample\src\test\java\org\taskcli" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="org.taskcli.service" />
+      <recent name="org.taskcli.repository" />
+      <recent name="org.taskcli.model" />
+      <recent name="org.taskcli.commands" />
+      <recent name="org.example" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.example.service" />
+      <recent name="org.example.commands" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.java in cliExample">
+    <configuration name="TaskTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cliExample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.taskcli.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.taskcli.model" />
+      <option name="MAIN_CLASS_NAME" value="org.taskcli.model.TaskTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TaskTest.testTaskWithInvalidId" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cliExample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.taskcli.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.taskcli.model" />
+      <option name="MAIN_CLASS_NAME" value="org.taskcli.model.TaskTest" />
+      <option name="METHOD_NAME" value="testTaskWithInvalidId" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TaskTest.testTaskWithInvalidStatus" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cliExample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.taskcli.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.taskcli.model" />
+      <option name="MAIN_CLASS_NAME" value="org.taskcli.model.TaskTest" />
+      <option name="METHOD_NAME" value="testTaskWithInvalidStatus" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TaskTest.testTaskWithNullValues" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cliExample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.taskcli.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.taskcli.model" />
+      <option name="MAIN_CLASS_NAME" value="org.taskcli.model.TaskTest" />
+      <option name="METHOD_NAME" value="testTaskWithNullValues" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="java in cliExample" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cliExample" />
+      <option name="TEST_OBJECT" value="directory" />
+      <dir value="$PROJECT_DIR$/src/test/java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cliExample [package]" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="cmdOptions" />
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="package" />
+              </list>
+            </option>
+            <option name="multimoduleDir" />
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="projectsCmdOptionValues">
+              <list />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TaskTest.testTaskWithNullValues" />
+        <item itemvalue="JUnit.TaskTest.testTaskWithInvalidStatus" />
+        <item itemvalue="JUnit.TaskTest.testTaskWithInvalidId" />
+        <item itemvalue="JUnit.TaskTest" />
+        <item itemvalue="JUnit.java in cliExample" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ff605a14-2f4a-40e2-b409-2e9e04fad5db" name="Changes" comment="" />
+      <created>1737016300706</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1737016300706</updated>
+    </task>
+    <task id="LOCAL-00001" summary="First version">
+      <option name="closed" value="true" />
+      <created>1738175331931</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1738175331931</updated>
+    </task>
+    <task id="LOCAL-00002" summary="First version">
+      <option name="closed" value="true" />
+      <created>1738176707128</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1738176707128</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First version" />
+    <option name="LAST_COMMIT_MESSAGE" value="First version" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/taskcli/repository/FileUtilsImpl.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
