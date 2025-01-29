@@ -1,0 +1,7 @@
+org\example\commands\TaskUpdate.class
+org\example\commands\TaskDelete.class
+org\example\TasksCli.class
+META-INF\native-image\picocli-generated\org.example\cliExample\reflect-config.json
+META-INF\native-image\picocli-generated\org.example\cliExample\resource-config.json
+META-INF\native-image\picocli-generated\org.example\cliExample\proxy-config.json
+org\example\commands\TaskAdd.class
