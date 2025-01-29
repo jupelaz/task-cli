@@ -1,0 +1,5 @@
+-cp
+D:\\projects\\cliExample\\target\\cliExample-1.0-SNAPSHOT.jar;C:\\Users\\J\\.m2\\repository\\info\\picocli\\picocli\\4.7.6\\picocli-4.7.6.jar;C:\\Users\\J\\.m2\\repository\\org\\slf4j\\slf4j-api\\2.0.16\\slf4j-api-2.0.16.jar
+--no-fallback
+-o
+D:\\projects\\cliExample\\target\\cliExample
